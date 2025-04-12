@@ -5,7 +5,7 @@ A clean, animated, and responsive portfolio built with **Next.js**, **TailwindCS
 
 ## Live Demo
 
-[Visit Website](https://tejasgarg.netlify.app/works)
+[Visit Website](https://tejasgarg.netlify.app)
 
 ---
 
