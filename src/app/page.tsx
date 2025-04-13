@@ -95,7 +95,7 @@ export default function HomePage() {
               animate={{ y: 0, opacity: 1 }}
               transition={{ duration: 0.8, delay: 1.2 }}
             >
-              Hello, I’m Technology and Electronics enthusiast building innovative tech one system at a time.
+              Hello, I’m Technology and Electronics enthusiast building innovative tech one circuit at a time.
             </motion.p>
 
 
