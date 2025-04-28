@@ -9,7 +9,7 @@ import { useState } from "react";
 const navItems = [
   { name: "Works", path: "/works" },
   { name: "About", path: "/about" },
-  { name: "Resume", path: "https://drive.google.com/file/d/1qCuvftpwQbPnDeQPhFyF0RZ2MSQmR1z0/view?usp=sharing"},
+  { name: "Resume", path: "https://drive.google.com/file/d/1uhLkB5skug-xgdCTqaJtNEGeY3_kUszV/view?usp=sharing"},
   { name: "Contact", path: "/contact" },
 ];
 
