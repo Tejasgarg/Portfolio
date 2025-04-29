@@ -3,9 +3,6 @@
 
 A clean, animated, and responsive portfolio built with **Next.js**, **TailwindCSS**, and **Framer Motion**. Designed for minimal, modern presentation with support for dynamic content and fast performance.
 
-## Live Demo
-
-
 ---
 
 ## Tech Stack
